@@ -19,22 +19,22 @@ A **program** is a *sequence of statements* that solve a problem.
 
 [Input & Output Devices] → [[Control Processing Unit] ↔ [Main Memory]] ↔ [Secondary Memory]
                               
-- → Control Processing Unit is responsible for executing software instructions.
-- → Main Memory is used to temporarily store data during execution.
-- → Input/Output Devices allow user interaction.
+- → **Control Processing Unit** is responsible for executing software instructions.
+- → **Main Memory** is used to temporarily store data during execution.
+- → **Input/Output Devices** allow user interaction.
 
-Primary vs Secondary Memory
-Primary Memory (Main Memory):
+**Primary vs Secondary Memory**
+🧠 Primary Memory (Main Memory):
 
-Fast, small storage area (also called RAM).
+- Fast, small storage area (also called RAM).
 
-Volatile: data is lost when the system is powered off or shut down.
+- Volatile: data is lost when the system is powered off or shut down.
 
-Secondary Memory:
+🧠 Secondary Memory:
 
-Non-volatile storage (e.g., hard disks, SSDs, pen drives).
+- Non-volatile storage (e.g., hard disks, SSDs, pen drives).
 
-Retains data even after shutdown.
+- Retains data even after shutdown.
 
-Python Overview
+**Python Overview**
 Inventor: Guido van Rossum
