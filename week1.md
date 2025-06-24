@@ -19,9 +19,9 @@ A **program** is a *sequence of statements* that solve a problem.
 
 [Input & Output Devices] → [[Control Processing Unit] ↔ [Main Memory]] ↔ [Secondary Memory]
                               
-→ Control Processing Unit is responsible for executing software instructions.
-→ Main Memory is used to temporarily store data during execution.
-→ Input/Output Devices allow user interaction.
+- → Control Processing Unit is responsible for executing software instructions.
+- → Main Memory is used to temporarily store data during execution.
+- → Input/Output Devices allow user interaction.
 
 Primary vs Secondary Memory
 Primary Memory (Main Memory):
