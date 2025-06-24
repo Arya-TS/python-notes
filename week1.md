@@ -23,7 +23,7 @@ A **program** is a *sequence of statements* that solve a problem.
 - → **Main Memory** is used to temporarily store data during execution.
 - → **Input/Output Devices** allow user interaction.
 
-**Primary vs Secondary Memory**
+**Primary vs Secondary Memory**  
 🧠 Primary Memory (Main Memory):
 
 - Fast, small storage area (also called RAM).
@@ -36,5 +36,5 @@ A **program** is a *sequence of statements* that solve a problem.
 
 - Retains data even after shutdown.
 
-**Python Overview**
+**Python Overview**  
 Inventor: Guido van Rossum
