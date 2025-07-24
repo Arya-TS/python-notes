@@ -1,4 +1,4 @@
-# 🧠 Week 1: Python for Everybody
+# 🧠 Python for Everybody
 
 ## Why Programming?
 
