@@ -8,7 +8,7 @@ I want to build real things, solve problems, and someday work in data science an
 This is where it all begins. Even if the steps are small — I’m taking them 💖
 
 ## 📘 What You’ll Find Here
-- My course notes from **Coursera: Python for Everybody**
+- My course notes 
 - Little code snippets and beginner projects
 - Reflections, wins, and maybe even some cute comments 😌
 
